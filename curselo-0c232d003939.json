@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "curselo",
+  "private_key_id": "0c232d0039398d33f3e5ba7ada58e062f203423d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaECbVuo/fzEgp\n9LUAj3ABgAgfYGdNqVxhrcO/X9vc19O4aaP28cBi/PNKkmxS8wVW2eubc+5MJe+Q\n1OZwKd5EP0y8a323cUuLSBIqHABQLkbcTfSWqacc7FAMWrNnutcLXUcsr6SO+cOI\nWYM9HcCB0us+jLB7CU0Mxji6diaMHbm0Mv2nm9jRQlA6qlu57WyggbQvisfXdg+U\nzWeae0jITC/ofWoNQg49L+zMXNkde6sP87+Q+6oxNIAt2obghXYjlYmaN2s1xnuh\nNzKL2v3wP16CLKHYOFn1Covqui/al8kSv5PnJc9Hds5MJmjDrMTw4Y0/yWtaHBGf\nzw1LMykVAgMBAAECggEAQHj154d1YjC5GmW/wYZFVztfKtJLKOLxOCdhvZq+BcOE\nZK5A4bz1x/cXUWPJVUVCPMBhquJvHQrbIH8YGGRNEb5zvH43VCdjd9wnTdv9/ZAA\nM32kF9DTkHUMYr8qSQSVrbnRaU/vy62WOF9NXqwuvaWosLpruHGB/xCM+Oss4oF/\nuDToojIMjffwgC5iVBKg5xRz1VyH4OKFWCP444QW/G+blI+O/E1ofMpAJb/2iSk3\nZT6PP++sdWLdfGHZupz7goxjt8T425KY4sT6ffWB4AAFGaDOCRGwEnA4J/ipKAol\nZhAINEZKXbA1O7Uh0my9crKa2z3vfrlBd2NBd/BnGQKBgQDOVactLXsHeY4mu5Qd\n0mgSzTY0DHT42Uxd/6cQEsFtHXlO9qcKTbqDgGOdFnyjYSKy87cpv7vrylHNWBiv\n7pkNq6+vAjn6ezjH6hsp/ZrTg+JtxF1M3HGLwTlObbZge7WXeEFrhuaCsMjS2ihm\nPfSEpW5HDkrKGYGKm1MNzMRz9wKBgQC/JYblj+OiZDA1l6o4up1LGUUp1a66iaZI\n2Lxe0M3BAP3abYYRFKwksa75eyTZ26NbjXrNbQwHT5MzR91f358s+fr3IuBntPB9\nsd1tK3BQKCGG+C/Zz3qgsAjF7xvOngubBaei7mcTWfbuBgK8wzoXV2qPaYxrQdQn\nsMmAVQbwUwKBgQCzs9mT+UZrbiymAzyu9G974IpSrn65tNdUDrJ7xzn7RG5AnYVB\n7gyBNzKKv+jxiknkPWrKy5hpdZ3lD9MAdveJ9nteGrxQMT10r6nU2nEbwoNUQm9X\n365sn26/pcHvKg8vyqZ/ddARBtMBAMuqsE7jsAjpjcMJXUl7ZGfjXvHCZQKBgQCl\nH98L2ySTuacn9PAY96VAJgFopW6/OIBMt+bqpcjJLXkew7SodspLHLACV047YZEa\nWvs2ETjt6+FG0JM96mmQqhcSfa+MB3QlsYyObZMlu7VS6n4z1BekTs4VZ30HHeL6\ntYTerMKgpfw6HTkqJiC930dvwoeKdKC49PDtiwZmfwKBgC0GaHX7EH1kpiYx5SuI\n6drNR29Vd3qAPAkEYUWvr7CFEVUnJ8r3Qgwq3ZOxUqU/svOTg5Sk8co9iuqsbrx/\n1bSDWoMdBwK7pL+cGtHcXP46b0IvalbvCDX5lBKN7169jGWorvhfSgroh613jK3A\n14ciB8ml1XZUgUax4GMyensr\n-----END PRIVATE KEY-----\n",
+  "client_email": "curselo@appspot.gserviceaccount.com",
+  "client_id": "104233803681852103602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/curselo%40appspot.gserviceaccount.com"
+}

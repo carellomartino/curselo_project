@@ -1,0 +1,62 @@
+{
+  "name": "curselo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikterminator/curselo-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikterminator/curselo-project/issues"
+  },
+  "homepage": "https://github.com/erikterminator/curselo-project#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "@babel/preset-react": "^7.0.0",
+    "@google-cloud/storage": "^3.0.2",
+    "@material-ui/core": "^4.2.1",
+    "@trendmicro/react-sidenav": "^0.4.5",
+    "@u-wave/react-vimeo": "^0.8.1",
+    "axios": "^0.19.0",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.0.0",
+    "firebase": "^6.3.0",
+    "firebase-tools": "^7.1.0",
+    "fs": "0.0.1-security",
+    "mdbootstrap": "^4.8.5",
+    "mdbreact": "^4.18.1",
+    "react": "^16.8.6",
+    "react-cardstack": "^1.1.0",
+    "react-dom": "^16.8.6",
+    "react-js-pagination": "^3.0.2",
+    "react-native": "^0.60.4",
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.2.6",
+    "react-router-dom": "^5.0.1",
+    "react-sidebar": "^3.0.2",
+    "react-vimeo": "^2.0.0",
+    "react-window": "^1.8.5",
+    "redux": "^4.0.1",
+    "redux-firestore": "^0.8.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "style-loader": "^0.23.1",
+    "vimeo": "^2.1.1",
+    "webpack": "^4.35.2"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.1.6",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
